@@ -12,4 +12,10 @@ mvn spring-boot:run
 
 ## Online Demo
 
+FrontEnd:
+
 https://demo-2-responsive-duiker.cfapps.eu10.hana.ondemand.com
+
+BackEnd:
+
+https://demo-2-responsive-duiker.cfapps.eu10.hana.ondemand.com/people
