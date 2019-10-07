@@ -27,6 +27,17 @@ public class Demo2Application {
 			pr.save(p);
 			
 			
+			p = new Person("andy");
+			pa = new PersonAddress();
+			pa.setStreet("street 2");
+			
+			pa = par.save(pa);
+			
+			p.setAddress(pa);
+			pr.save(p);
+			
+			
+			
 		};
 		
 	}
